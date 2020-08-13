@@ -1,0 +1,10 @@
+body {
+    font-family: 'Lemonada', cursive;
+    text-rendering: geometricPrecision;
+    font-weight: 700;
+}
+
+.right-col {
+    justify-content: center;
+    flex-direction: column;
+}
