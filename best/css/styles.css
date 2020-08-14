@@ -8,3 +8,8 @@ body {
     justify-content: center;
     flex-direction: column;
 }
+
+.hell {
+    font-family: 'Lemonada', cursive;
+    text-rendering: geometricPrecision;
+}
